@@ -1,0 +1,5 @@
+entity.example.collection:
+  title: 'Example'
+  parent: system.admin_config_system
+  description: 'Configure example'
+  route_name: entity.example.collection

@@ -1,0 +1,6 @@
+name: Example
+description: 'Manages example configuration.'
+package: Example
+
+type: module
+core: 8.x
